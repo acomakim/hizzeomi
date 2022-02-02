@@ -6,6 +6,7 @@
 2). 굿즈 쇼핑몰
 ```
 
+
 ## 2. 페이지 list
 
 
@@ -18,5 +19,11 @@
 >    >      >- goods_detail
 
     
+참고 사이트
 
+https://seeouterspace.com/
+
+http://www.aeshoong.com/
+
+www.behance.com
 
